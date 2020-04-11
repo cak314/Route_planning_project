@@ -59,3 +59,5 @@ The testing executable is also placed in the `build` directory. From within `bui
 ./test
 ```
 
+discard this line : just a check to see if git is working
+
